@@ -13,14 +13,14 @@
   <p>
     I'm a Frontend Engineer with 2.8+ years of full-time experience building scalable,
     high-performance web applications using React.js, Next.js, and TypeScript.
-    I focus on clean architecture, reusable component systems, performance optimization,
-    and delivering user-centric digital experiences.
+    I specialize in clean architecture, reusable component systems, state management,
+    and performance optimization.
   </p>
 
   <p>
     I’ve worked on ERP systems, analytics dashboards, assessment platforms,
-    and internal business tools used by real-world clients.
-    I enjoy turning complex business requirements into clean and maintainable UI solutions.
+    and business tools used by real-world clients. I enjoy transforming complex
+    requirements into intuitive, maintainable UI solutions.
   </p>
 
   <p>
@@ -32,23 +32,23 @@
     <img src="https://img.shields.io/badge/⚡_React_Specialist-1e1e2e?style=for-the-badge" />
   </p>
 
-<h3>🌐 Socials</h3>
+<h3>🌐 Connect With Me</h3>
   
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/wasimmisaaw">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/wasimmisaaw/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://YOUR_PORTFOLIO_LINK">
+  <a href="https://mohammedwasimportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=wasimmisaaw&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -71,8 +71,6 @@
 <td width="50%" align="center">
 <h3>📚 State Management & Data</h3>
 
-<img src="https://skillicons.dev/icons?i=redux" />
-<br/>
 Redux Toolkit • React Query • Context API
 </td>
 </tr>
@@ -103,21 +101,21 @@ Agile • REST APIs • Performance Optimization
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=wasimmisaaw&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
-## 🚀 What I’m Currently Working On
+## 🚀 Currently Focused On
 
-- Scalable React architecture
-- Performance optimization techniques
-- Advanced TypeScript patterns
-- Improving system design knowledge
+- Advanced TypeScript patterns  
+- Scalable React architecture  
+- Performance optimization techniques  
+- System design fundamentals  
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Career Goal
 
-Building scalable frontend systems in product-driven companies where
-code quality, performance, and real-world impact matter.
+Building scalable frontend systems in product-driven companies
+where code quality, performance, and real-world impact matter.
